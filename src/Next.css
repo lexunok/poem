@@ -1,0 +1,9 @@
+.site-layout-content {
+    padding: 24px;
+  }
+.but{
+  margin: 3px;
+  padding: 3px;
+  font-size: 1.125rem; /* 18px */
+line-height: 1.75rem;
+}
